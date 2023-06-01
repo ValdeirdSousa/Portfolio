@@ -7,7 +7,7 @@ Aqui estará uma amostra dos meus aprendizados em tratamento de dados, análise 
 Expertises: Power BI | SQL | Python
 
 
-# Python
+# Projeto em Python
 
 Neste projeto, uma análise exploratória de dados sobre Matérias Primas Agrícolas Americanas nos anos de 1970-2020.
 
