@@ -28,4 +28,5 @@ Base de dados do cliente (ERP, Formulários em excel e Google Forms)
 
 Ferramenta utlilizada: Power BI
 
+https://app.powerbi.com/view?r=eyJrIjoiMDlmNDAzYmYtOGYxNC00NTVhLWI5MjQtMzE4MTcwOWViNzJhIiwidCI6IjQyMWRiYWQ4LTIyNzYtNGQzZi04NjhmLTc5MmI0M2E1YWMyMSJ9
 
